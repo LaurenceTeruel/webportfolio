@@ -1,0 +1,32 @@
+
+.navbarScroll.navbarDark {
+    background-color: black;
+}
+
+.bgimage {
+    height:100vh;
+    background: url('wp.jpeg');
+    background-size:cover;
+    position:relative;
+}
+.wp_title {
+    font-size: 4.5rem;
+}
+.wp_desc {
+    font-size: 2rem;
+}
+.wp-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+} 
+#contact {
+    padding-bottom: 4rem;
+}
+
+ 
